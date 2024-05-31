@@ -1,0 +1,24 @@
+{
+    "response": [
+        {
+            "id": 1,
+            "name": "Jack Daniels",
+            "description": "Tennessee Whiskey"
+        },
+        {
+            "id": 2,
+            "name": "Blanton's",
+            "description": "Bourbon"
+        },
+        {
+            "id": 3,
+            "name": "Glenfiddich",
+            "description": "Scotch"
+        },
+        {
+            "id": 4,
+            "name": "Jameson",
+            "description": "Irish Whiskey"
+        }
+    ]
+}
